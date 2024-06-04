@@ -6,5 +6,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### My projects
-- [ClassWorkCPP](https://github.com/sarkis111/ClassWorkCPP) - классные работы по курсу C++
-- [HomeWorkCPP](https://github.com/sarkis111/HomeWorkCpp) - домашние работы по курсу C++
+- [ClassWorkCpp](https://github.com/sark234/ClassWorkCpp) - классные работы по курсу C++
+- [HomeWorkCpp](https://github.com/sark234/HomeWorkCpp) - домашние работы по курсу C++
