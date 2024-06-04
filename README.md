@@ -7,4 +7,4 @@
 
 ### My projects
 - [ClassWorkCPP](https://github.com/sarkis111/ClassWorkCPP) - классные работы по курсу C++
-- [HomeWorkCPP](https://github.com/sarkis111/HomeWorkCPP) - домашние работы по курсу C++
+- [HomeWorkCPP](https://github.com/sarkis111/HomeWorkCpp) - домашние работы по курсу C++
